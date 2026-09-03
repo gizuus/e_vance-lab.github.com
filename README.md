@@ -1,4 +1,4 @@
-markdown# Elena Vance Automation Lab
+# Elena Vance Automation Lab
 
 Welcome to the official repository of Miller Automation Lab. We focus on industrial control systems, HMI/SCADA solutions, IOT and smart factory R&D.
 
